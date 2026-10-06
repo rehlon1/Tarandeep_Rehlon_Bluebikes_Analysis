@@ -1,0 +1,17 @@
+# Data extracts
+*.csv
+*.hyper
+*.twbx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
